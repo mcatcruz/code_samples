@@ -7,5 +7,3 @@ export interface UserSignUp {
   agreed_to_terms: boolean;
 }
 
-// 7/19 TODO:
-// Edit API endpoint and HTTP request
